@@ -11,7 +11,7 @@ For WordPress users, please see our [Gravity Forms Dynamics 365 Add-On](https://
 ## Install the SDK
 You can install the PHP SDK with Composer.
 ```
-composer require saintsystems/odata-client
+composer require cyberhawk-software/odata-client
 ```
 
 ### HTTP Provider Configuration

@@ -1,6 +1,5 @@
 {
-    "name": "saintsystems/odata-client",
-    "version": "1.0.1",
+    "name": "cyberhawk-software/odata-client",
     "description": "Saint Systems OData Client for PHP",
     "keywords": [
         "odata",
